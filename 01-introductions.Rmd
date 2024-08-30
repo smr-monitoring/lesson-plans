@@ -1,0 +1,35 @@
+---
+title: "01-introductions"
+output: html_document
+css: style.css
+---
+
+## Learning objectives
+
+* Explain the linkages between the Clean Water Act, the Chesapeake Watershed Agreement Goals and Outcomes, and environmental monitoring
+* List basic water quality parameters 
+* Describe the physical/biological/chemical states/rates captured by water quality measurements and how they relate particular Goals and Outcomes
+* Explain whether we are on track to meeting particular Goals and Outcomes and how we know whether we are on track
+
+## Resources
+
+*[Slides](https://docs.google.com/presentation/d/12BiPZ5xwq_SSQtvFhpmQ2TJtIKfxdZr2pRuQdX0EoTU/edit#slide=id.p)
+* [Chesapeake Bay Watershed Agreement](https://d18lev1ok5leia.cloudfront.net/chesapeakebay/Chesapeake-Bay-Watershed-Agreement-Amended.pdf)
+* [Chesapeake Progress](https://www.chesapeakeprogress.com/)
+
+## Lesson plan
+
+### 1. Introductions
+ 
+* Share name & pronouns, major(s)/minor(s), fun fact about you that not a lot of people know.
+
+### 2. Course logistics
+
+* Course website url: [https://smr-monitoring.github.io/MRNE395-2024FA/](https://smr-monitoring.github.io/MRNE395-2024FA/). Bookmark this link - it has everything you need for the class.
+* The [syllabus](https://smr-monitoring.github.io/MRNE395-2024FA/syllabus.html) contains information on assessment and class policies.
+* The [schedule](https://smr-monitoring.github.io/MRNE395-2024FA/schedule.html) is our master organizer. All assignments, slides, etc. are linked here by date.
+* The [SOPs](https://smr-monitoring.github.io/MRNE395-2024FA/sops.html) page contains links to all of the standard operating procedures we'll use to conduct our monitoring program
+
+### 3. Intro to coastal monitoring
+
+<iframe src="https://docs.google.com/presentation/d/12BiPZ5xwq_SSQtvFhpmQ2TJtIKfxdZr2pRuQdX0EoTU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
