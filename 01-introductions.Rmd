@@ -13,7 +13,7 @@ css: style.css
 
 ## Resources
 
-*[Slides](https://docs.google.com/presentation/d/12BiPZ5xwq_SSQtvFhpmQ2TJtIKfxdZr2pRuQdX0EoTU/edit#slide=id.p)
+* [Slides](https://docs.google.com/presentation/d/12BiPZ5xwq_SSQtvFhpmQ2TJtIKfxdZr2pRuQdX0EoTU/edit#slide=id.p)
 * [Chesapeake Bay Watershed Agreement](https://d18lev1ok5leia.cloudfront.net/chesapeakebay/Chesapeake-Bay-Watershed-Agreement-Amended.pdf)
 * [Chesapeake Progress](https://www.chesapeakeprogress.com/)
 
