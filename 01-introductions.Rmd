@@ -6,16 +6,17 @@ css: style.css
 
 ## Learning objectives
 
-* Explain the linkages between the Clean Water Act, the Chesapeake Watershed Agreement Goals and Outcomes, and environmental monitoring
-* List basic water quality parameters 
-* Describe the physical/biological/chemical states/rates captured by water quality measurements and how they relate particular Goals and Outcomes
+* Explain the linkages between the Chesapeake Watershed Agreement Goals and Outcomes and coastal monitoring
 * Explain whether we are on track to meeting particular Goals and Outcomes and how we know whether we are on track
+* List basic water quality parameters and how they relate the Goals and Outcomes
+
 
 ## Resources
 
 * [Slides](https://docs.google.com/presentation/d/12BiPZ5xwq_SSQtvFhpmQ2TJtIKfxdZr2pRuQdX0EoTU/edit#slide=id.p)
 * [Chesapeake Bay Watershed Agreement](https://d18lev1ok5leia.cloudfront.net/chesapeakebay/Chesapeake-Bay-Watershed-Agreement-Amended.pdf)
 * [Chesapeake Progress](https://www.chesapeakeprogress.com/)
+* [Eyes on the Bay](https://eyesonthebay.dnr.maryland.gov/)
 
 ## Lesson plan
 
