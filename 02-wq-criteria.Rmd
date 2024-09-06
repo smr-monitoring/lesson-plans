@@ -4,7 +4,7 @@ output: html_document
 css: style.css
 ---
 
-## Housekeeping
+## Housekeeping 
 
 * I'll hand out paper copies of HW-02 in class today.
 * If you miss class, you can grab a copy of the homework from the envelope next to my office door (Kent 308)
