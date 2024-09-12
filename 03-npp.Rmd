@@ -1,0 +1,32 @@
+---
+title: "Water column primary production"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+* HW3 is due in class next week
+* This week and next week, we'll be in the classroom and down on the dock
+
+## Learning objectives
+
+* Describe diel and seasonal patterns of estuarine dissolved oxygen (DO) concentration and discuss the factors that affect DO
+* Explain why pH tends to co-vary with DO
+* Define annual phytoplankton primary production (APPP)
+* Describe the factors controlling APPP
+* Explain potential sources of error when measuring APPP
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/1MgM5Z4uUarYjLK5xzwsgypnZbPeSc4wGrWdinE2ZOvE/)
+* [Cloern et al. 2014: Phytoplankton primary production in the world’s estuarine-coastal ecosystems](https://drive.google.com/file/d/1xvtN3hTXM4mrdZEIglD65oEDWkiIDRhY/view?usp=sharing)
+
+## Lesson plan
+
+1. Go over HW2
+
+2. Slides on NPP
+<iframe src="https://docs.google.com/presentation/d/1MgM5Z4uUarYjLK5xzwsgypnZbPeSc4wGrWdinE2ZOvE/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+3. Take NPP readings at the waterfront - see [Net Primary Production SOP](https://smr-monitoring.github.io/sop/npp.html)
