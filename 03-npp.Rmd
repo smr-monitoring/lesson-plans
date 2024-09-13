@@ -16,6 +16,7 @@ css: style.css
 * Define annual phytoplankton primary production (APPP)
 * Describe the factors controlling APPP
 * Explain potential sources of error when measuring APPP
+* Explain how the light-dark bottle method is used to measure NPP and be able to use this method to conduct NPP measurements
 
 ## Resources
 
@@ -29,4 +30,12 @@ css: style.css
 2. Slides on NPP
 <iframe src="https://docs.google.com/presentation/d/1MgM5Z4uUarYjLK5xzwsgypnZbPeSc4wGrWdinE2ZOvE/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
-3. Take NPP readings at the waterfront - see [Net Primary Production SOP](https://smr-monitoring.github.io/sop/npp.html)
+3. Read through [Net Primary Production SOP](https://smr-monitoring.github.io/sop/npp.html)
+
+3. Knot-tying: the bowline. Instructional videos for all of the knots you'll need to learn, including the bowline, are available on the [Knot-tying page](https://smr-monitoring.github.io/MRNE395-2024FA/knot-tying.html)
+
+3. Take NPP readings at the waterfront. Rotate through "stations":
+    * Basic water quality measurements: YSI, LiCOR profile, secchi
+    * Play with pump to fill NPP bottles
+    * Final NPP DO readings
+    * Practice the bowline (and other knots if you'd like)
