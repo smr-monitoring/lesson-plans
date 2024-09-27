@@ -21,6 +21,7 @@ css: style.css
 
 * [USGS TM1-D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf)
 * [Slides](https://docs.google.com/presentation/d/1G7hgNhtZciZUJGy8lcRW-A57cRLWK2LmEA4Hlgndnng/)
+* [logger deployment data sheet](https://docs.google.com/spreadsheets/d/13Th59bvqzj5W5UKwX2BDcOht2YbG9D7KuRu2FcLsj6o/edit?usp=sharing)
 
 ## Lesson plan
 
