@@ -1,13 +1,22 @@
 ---
-title: "01-introductions"
+title: "Continuous monitoring - retrieval"
 output: html_document
 css: style.css
 ---
 
 ## Learning objectives
 
+* Explain proper procedures for determining fouling and sensor drift offsets
+* Properly clean fouled loggers
+* Download and process logger data
+* Correct logger data for fouling and sensor drift
+
 ## Resources
 
 * [USGS TM1-D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf)
 
 ## Lesson plan
+
+1. Slides on fouling and sensor drift corrections 
+1. Retrieve, clean, and dry loggers
+1. Download and process data
