@@ -6,7 +6,7 @@ css: style.css
 
 ## Housekeeping
 
-* **Homework for next week:** Each person in your group should stop by your monitoring station at least once between now and next Friday. Come up with a schedule now to space your visits apart. Each member should fill out the **[Monitoring station site visit form]()** during your visit. You should add the Google Drive app to your phone.
+* **Homework for next week:** Each person in your group should stop by your monitoring station at least once between now and next Friday. Come up with a schedule now to space your visits apart. Each member should fill out the **[Monitoring station site visit form](https://docs.google.com/spreadsheets/d/1J3YEvWHqeVdu75PupAPLOFJHA1BwFn_1tIiBC8eVfvY/edit?gid=0#gid=0)** during your visit. You should add the Google Drive app to your phone.
 * **Lab next week:** We will retrieve our CONMON loggers next week so be prepared to be outside for part of the time
 
 ## Learning objectives
