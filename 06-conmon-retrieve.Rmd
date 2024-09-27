@@ -1,0 +1,13 @@
+---
+title: "01-introductions"
+output: html_document
+css: style.css
+---
+
+## Learning objectives
+
+## Resources
+
+* [USGS TM1-D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf)
+
+## Lesson plan
