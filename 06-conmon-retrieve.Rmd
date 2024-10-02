@@ -4,19 +4,67 @@ output: html_document
 css: style.css
 ---
 
+## Housekeeping
+
+* HW next week: tie a bowline, lobster buoy hitch, clove hitch, and cleat hitch
+
 ## Learning objectives
 
 * Explain proper procedures for determining fouling and sensor drift offsets
 * Properly clean fouled loggers
 * Download and process logger data
 * Correct logger data for fouling and sensor drift
+* Save logger data to shared folder using consistent naming convention
 
 ## Resources
 
-* [USGS TM1-D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf)
+* [USGS TM1-D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf): general CONMON SOPs
+* [PME MiniDOT logger SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
+* [HOBO light-temperature logger SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
+* [HOBO pH logger SOP](https://smr-monitoring.github.io/sop/ph-logger-hobo.html)
+* [Deployment log](https://docs.google.com/spreadsheets/d/13Th59bvqzj5W5UKwX2BDcOht2YbG9D7KuRu2FcLsj6o/edit?gid=0#gid=0)
+
+## Supplies
+
+* large bins (4)
+* small bins for loggers (4)
+* scissors or snips
+* squirt bottles with DI water
+* small squirt bottles with pH buffer solution (6)
+* paper towels
+* pH buffer (4, 7, 10)
+* pH calibration cups or beakers (6 + a few extra)
+* HOBO shuttle and connectors
+* dock lines
+* YSI
+* printed logger retrieval logsheets (4)
 
 ## Lesson plan
 
 1. Slides on fouling and sensor drift corrections 
-1. Retrieve, clean, and dry loggers
-1. Download and process data
+<iframe src="https://docs.google.com/presentation/d/1MpLZJBUzWRgV7FLXTM75yRtSHC6TObAQW2D5VXuunL0/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+1. Go to dock to demonstrate and practice clove hitch and cleat hitch
+
+1. Retrieve loggers
+    * go to logger deployment site
+    * clean loggers
+    * return to water for fouling drift measurement
+    * retrieve loggers and remove from concrete block 
+    * bring block to River Center for spray-down
+    * return blocks to Kent mud room (leave outside of mudroom to dry)
+    * return to lab and take calibration drift measurement
+<br />
+<br />
+1. Download and process data as specified in SOPs linked in the Resources section above. 
+    * Save data in shared continuous monitoring data folder. 
+    * **Use the following naming convention:** `yyyy_mm_dd_parameter_groupnum` (all lowercase, with an underscore (`_`) in place of spaces; use date of deployment for the date)
+    * e.g., `2024-09-27_do_group1` or `2024-09-27_light_group3`
+<br />
+<br />
+1. Help me prep loggers for fieldwork next week:
+    * Inspect pH and DO logger o-rings; clean and lubricate if needed
+    * Calibrate pH loggers and program to deploy Monday 10/7 at 8:00 am with a 5-minute logging interval. 
+    * Switch on all DO loggers
+<br />
+<br />
