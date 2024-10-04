@@ -24,6 +24,7 @@ css: style.css
 * [HOBO light-temperature logger SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
 * [HOBO pH logger SOP](https://smr-monitoring.github.io/sop/ph-logger-hobo.html)
 * [Deployment log](https://docs.google.com/spreadsheets/d/13Th59bvqzj5W5UKwX2BDcOht2YbG9D7KuRu2FcLsj6o/edit?gid=0#gid=0)
+* [Data folder](https://drive.google.com/drive/folders/1Oqr4Gpjc2pENiwlXDxtjsYyvc014ibwh?usp=drive_link)
 
 ## Supplies
 
