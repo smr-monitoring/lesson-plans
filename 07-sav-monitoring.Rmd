@@ -4,6 +4,11 @@ output: html_document
 css: style.css
 ---
 
+## Housekeeping
+
+* If the weather is ok, we'll go on the boat for lab next week. Standby for email with meeting time/location. If weather is bad, we'll process and analyze our continuous monitoring data.
+* HW for next week: tie a cleat hitch (and still be able to tie a clove hitch)
+
 ## Learning objectives
 
 * Describe what SAV is and why it is important in estuarine ecosystems
@@ -20,11 +25,13 @@ css: style.css
 
 ## Lesson plan
 
+1. Knot-tying quiz: clove hitch
+
 1. Background info on SAV ecology and monitoring in Chesapeake Bay
 
 <iframe src="https://docs.google.com/presentation/d/1T2BWVRcf-mm6Rfg38ZpZ7CeTbUKgeUy7Fu3mvp7Ciz4/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
-2. Process SAV biomass samples!
+1. Process SAV biomass samples!
 
 ## SAV biomass processing procedures
 
