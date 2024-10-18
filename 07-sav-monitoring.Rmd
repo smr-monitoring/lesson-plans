@@ -1,0 +1,60 @@
+---
+title: "SAV monitoring (and biomass processing)"
+output: html_document
+css: style.css
+---
+
+## Learning objectives
+
+* Describe what SAV is and why it is important in estuarine ecosystems
+* Explain why SAV is a good ecological indicator
+* Describe each of the three Chesapeake Bay SAV monitoring tiers
+* Explain why a tiered approach to SAV monitoring is useful
+
+## Resources
+
+* [Slides](https://docs.google.com/presentation/d/1T2BWVRcf-mm6Rfg38ZpZ7CeTbUKgeUy7Fu3mvp7Ciz4/edit?usp=sharing)
+* [Chesapeake Bay SAV monitoring website](https://www.chesapeakebay.net/what/programs/monitoring/sav-monitoring-program)
+* [Animal datasheet](https://docs.google.com/spreadsheets/d/1v5taHFVVZiA8XPXAbQ4n5857FToXCtW9mN1hfKhdsSI/edit?usp=sharing)
+* [SAV species ID guide](https://dnr.maryland.gov/waters/bay/Documents/SAV/complete_sav_key.pdf)
+
+## Lesson plan
+
+1. Background info on SAV ecology and monitoring in Chesapeake Bay
+
+<iframe src="https://docs.google.com/presentation/d/1T2BWVRcf-mm6Rfg38ZpZ7CeTbUKgeUy7Fu3mvp7Ciz4/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+2. Process SAV biomass samples!
+
+## SAV biomass processing procedures
+
+* **Nobody is done until everyone is done.** If you finish your sample, help someone else finish theirs.
+* **Keep track of your sample bag!** It contains your sample ID information. It is very important that you don't misplace your sample bag or get it mixed up with someone else's bag. We need to be able to identify the site and chamber letter for each sample.
+
+### Instructions
+
+1. Grab a sample bag, dump it into a sieve, and rinse the sample. Fill a plastic container with water and place your sample in the water. Bring the sample, along with the sample bag, back to your bench. 
+**Do not dump dirty water down the drain: pour through a sieve first so that we don't clog the drain.**
+1. Gently clean the sample. Change the water with fresh water. Repeat until the water stays more or less clear. If there is any algae or calcifying organisms attached to the leaves, carefully scrape them off with your finger.
+1. Grab a few smaller plastic containers - one for each species. Separate your plants into the smaller tuperwares by species. Make sure to clean as much of the algae off the plants as possible. Place the algae into its own container and clean as much sediment and debris from the algae and plants as possible. 
+1. Separate the above-ground material (leaves, shoots) from the below-ground material (roots and rhizomes) by pinching off the shoots where they meet the roots/rhizomes. 
+1. Place the samples into foil packets, separated by species and above/below ground material. Label foil packets with the site name, sample date, species abbreviation (see below), chamber letter, and AG (for above ground) or BG (for belowground).
+1. If there are any clams or worms in your sample, place them on a numbered weigh boat. Find your boat number in the [animal datasheet](https://docs.google.com/spreadsheets/d/1v5taHFVVZiA8XPXAbQ4n5857FToXCtW9mN1hfKhdsSI/edit?usp=sharing) and record the river (POT), site (FW or BR), chamber_id (A-L), and species_id (either "clam" or "worm"). You can place more than one clam or worm on a weigh boat if they're small enough to fit but don't put both clams and worms in the same weigh boat. Double check that you recorded your sample ID information in the animsl datasheet, then place the weigh boat on a cookie sheet in the drying oven.
+1. If you notice that there are a lot (like more than 10) of another type of animal in your sample, let me know. We may want to dry and weigh them as well
+1. Also separate and place into a foil packet any leftover organic detritus in your sample (YOR_BR site). Instead of species, write "detritus" on the sample packet.
+
+### Species abbreviations
+
+**YOR_BR site**
+
+* RM: Ruppia maritima (widgeon grass)
+* ZM: Zostera marina (eelgrass)
+* algae: any kind of macroalgae
+
+**YOR_FW site**
+
+* CD: Ceratophyllum demersum (coontail)
+* EC: Elodea canadensis (elodea)
+* HV: Hydrilla verticillata (hydrilla)
+* MS: Myriophyllum spicatum (Eurasian water milfoil)
+* NAI: Naiads
