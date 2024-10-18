@@ -8,6 +8,7 @@ css: style.css
 
 * If the weather is ok, we'll go on the boat for lab next week. Standby for email with meeting time/location. If weather is bad, we'll process and analyze our continuous monitoring data.
 * HW for next week: tie a cleat hitch (and still be able to tie a clove hitch)
+* [Extra credit](https://smr-monitoring.github.io/MRNE395-2024FA/extra-credit.html) opportunity: volunteer at CBL Oct 23-24
 
 ## Learning objectives
 
