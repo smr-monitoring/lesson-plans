@@ -1,0 +1,49 @@
+---
+title: "Skills review"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+* Sign up for skills assessment time slot [here](https://docs.google.com/spreadsheets/d/1hLHxzoFL6l4t2Bhw_rAb9f7xipIo0W3GSJmhjz17Hp8/edit?gid=0#gid=0)
+* We will meet in the River Center lab next week for the skills assessment.
+* Final exam is Thursday 12/12 9:00-11:15 in this room (SH116). It will be multiple choice, based on the learning objectives listed on the weekly class pages.
+
+## Learning objectives
+
+* Review and practice monitoring methods covered in class
+
+## Resources
+
+* [Skills checklist](https://smr-monitoring.github.io/MRNE395-2024FA/skills-checklist.html)
+
+## Lesson plan
+
+In groups of 2, test each other on monitoring methods. As you rotate through the stations listed below, you'll fill out the provided monitoring skills checklist to "test" your partner. The final skills assessment will use the same checklist, so you can approach today's activities as a practice test. 
+
+**In the lab:** 
+
+1.  Calibrate a YSI
+
+2.  Program a continuous data logger (light/temperature) and prepare for deployment (attach logger, line, and buoy to block using proper knots: bowline and lobster buoy hitch)
+
+3. Filter water samples for chl *a* and TSS
+
+**At the waterfront:**
+
+4. Take basic water quality measurements (YSI, secchi, vertical light profile, fluorescence) and properly record data on field datasheet
+
+5. Properly secure a boat using a cleat hitch
+
+### Supplies
+
+* Water samples
+* YSI
+* Secchi disk
+* LiCOR
+* monitoring datasheet
+* YSI calibration fluid and cup
+* light/temp loggers
+* line, buoys, bricks
+* filtering funnels, flasks, forceps, filters, foils, labeling tape, skinny sharpies
