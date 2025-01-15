@@ -4,6 +4,11 @@ output: html_document
 css: style.css
 ---
 
+## Housekeeping
+
+* For next week, HW-1: Restoration goals and outcomes. Available in Google Classroom. Submit there.
+* Check that the info I have for you in [this spreadsheet](https://docs.google.com/spreadsheets/d/1OwoS75p63FdDv0GcfY--HwPxPycDWk6H5lpQVXmCz0A/edit?usp=sharing) is correct. Add your pronouns and majro(s)/minor(s). If you're not on the spreadsheet, add yourself!
+
 ## Learning objectives
 
 * Explain the linkages between the Chesapeake Watershed Agreement Goals and Outcomes and coastal monitoring
