@@ -1,25 +1,21 @@
 ---
-title: "Water quality criteria and filtering methods"
+title: "Water quality criteria"
 output: html_document
 css: style.css
 ---
 
 ## Housekeeping 
 
-* I'll hand out paper copies of HW-02 in class today.
-* If you miss class, you can grab a copy of the homework from the envelope next to my office door (Kent 308)
+* HW-02 posted in Google Classroom, due before class next Thursday
 
 ## Learning objectives
 
 * Define designated use and summarize the five designated uses of the Chesapeake Bay ecosystem
 * Explain how water quality attainment criteria for dissolved oxygen, SAV/water clarity, and chlorophyll a are derived
-* Follow proper procedures to filter water for chl a and TSS using a vacuum pump
-* Explain how concentrations are derived from chl a and TSS filtrate
 
 ## Resources
 
 * [Slides on WQ criteria](https://docs.google.com/presentation/d/1lXwrBQ09VPu7JXGHzPzio329Imnn8pGG9BIEbH7v69Y/)
-* [Slides on TSS and chl a](https://docs.google.com/presentation/d/1CocGnqRfOIEIr9TSeolBv4XYymZlL6IEv71n_LAYpCc/edit#slide=id.g2fcedfb876d_0_153)
 * [US EPA 2003: Ambient Water Quality Criteria for Dissolved Oxygen, Water Clarity, and Chlorophyll a for the Chesapeake Bay and Its Tidal Tributaries](https://d38c6ppuviqmfp.cloudfront.net/content/publications/cbp_13142.pdf)
 * [Tango and Batiuk 2013: Deriving Chesapeake Bay Water Quality Standards](https://www.chesapeake.org/stac/wp-content/uploads/2019/08/294_7.-SoS-read-ahead-material_Tango-Batiuk-Deriving.pdf)
 
@@ -27,18 +23,18 @@ css: style.css
 
 ### 1. Go over HW-01
 
-As we discuss [HW-01](https://docs.google.com/document/d/1nurX4BWtdfR9zJBLjk3Bw-OtvYs28MPMHCWu9FV5x-4/), please use a different-colored pen to mark up your homework to correct questions you got wrong, flesh out incomplete answers, etc. This will help me see where I might need to provide more instruction.
+Get into three groups. Compare your answers for all of the questions. Once you've had a chance to discuss amongst yourselves, we'll go over the questions together. Each group will report their responses to the following sets of questions:
 
-### 2. Slides on WQ criteria and filtering
+- Group 1: 1 a-c
+- Group 2: 2 a-d and 3
+- Group 3: 4 a-d
+
+### 2. Slides on WQ criteria 
 
 <iframe src="https://docs.google.com/presentation/d/1lXwrBQ09VPu7JXGHzPzio329Imnn8pGG9BIEbH7v69Y/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
-### 3. Filter for chl *a* and TSS
+### 3. k~d~ calculations
 
-<iframe src="https://docs.google.com/presentation/d/1CocGnqRfOIEIr9TSeolBv4XYymZlL6IEv71n_LAYpCc/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+Go to Google Classroom. Go to the Classwork page and open the in-class assignment for today (In-class 1: Kd calculations). Open the spreadsheet linked to the assignment. I'll walk you through the rest of the activity.
 
-1. Go out and collect water samples. Each person from each group should collect their own sample so that everyone has a chance to filter. 
-2. Using the SOPs linked below, filter water samples for later TSS and chl *a* analysis.
 
-* [TSS SOP](https://smr-monitoring.github.io/sop/tss.html)
-* [Chl *a* SOP](https://smr-monitoring.github.io/sop/chl-filtering.html)
