@@ -7,15 +7,10 @@ css: style.css
 ## Housekeeping
 
 * HW for next week: be able to tie the bowline, lobster buoy hitch, and half hitch. You can use a guide but you'll need to be able to tie the knots quickly.
-* Next week we will learn how to program and deploy continuous monitoring instruments. We will meet in the lab and then go down to the water to deploy instruments.
 
 ## Learning objectives
 
 * Tie a bowline, lobster buoy hitch, and half hitch knot
-* Calculate k~D~ using vertical PAR profile data
-* Calculate percent light through the shade (PLS)
-* Calculate NPP, GPP, and R using bottle measurements
-* Estimate "depth" of shade treatments using k~D~ and PLS
 * Calibrate YSI pH, DO, and conductivity
 
 ## Lesson plan
