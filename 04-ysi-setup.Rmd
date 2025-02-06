@@ -38,6 +38,8 @@ If you find yourself working in a position where you use scientific instruments 
 
 * Make sure sensors are completely dry before installing them. Moisture will damage the sonde ports.
 
+* Any components containing o-rings need to be greased before installing them - silicone grease helps make a water-tight seal. Silicone grease is available in  the white "krytox" tube in the maintenance kit. Rub a tiny amount of grease between your fingers and wipe them around the o-rings to apply a thin layer of grease, being careful not to get grease on the sensors.
+
 * Do not attempt to operate the DO probe until you have configured the instrument for the correct probe and membrane type.
 
 * Please take your time and do not rush through this. Be sure to thoroughly read the relevant instructions here and in the manual. It is easy to overlook important steps that can damage the instrument if you are not careful and methodical.
