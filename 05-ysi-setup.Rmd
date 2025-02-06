@@ -1,0 +1,99 @@
+---
+title: "05-ysi-setup"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+* HW for next week: tie a clove hitch, bowline, lobster buoy hitch, and half hitch
+
+
+## Learning objectives
+
+* Identify components of a YSI
+* Use instrument instruction manual to identify steps required to install and calibrate new sensors
+* Install new YSI sensors and DO sensor membrane
+* Calibrate YSI DO, conductivity and pH
+
+## Resources
+
+* [YSI ProQuatro user manual](https://www.ysi.com/File%20Library/Documents/Manuals/606962-ProQuatro-User-Manual-English.pdf)
+
+## Lesson plan
+
+### I. Knot "quiz" and learn clove hitch
+
+### II. Install and calibrate sensors on new YSIs
+
+If you find yourself working in a position where you use scientific instruments to make measurements, you may have to figure out how to get them set up and use them with little guidance. The MRNE department just purchased 4 new YSIs, which gives us a good opportunity to practice independently navigating an instrument manual.
+
+**No-go zone: These sondes + sensors each cost over $1,200. Be aware that doing the following can permanently damage them.**
+
+* *If it dries, it dies.* pH sensors can never dry out. Once the DO sensor membrane is installed on the sensor, it cannot dry out. Never leave pH or DO sensors sitting out in the air for more than a minute or two.
+
+* The sonde has more sensor ports than sensors. Never place a sonde in liquid with an exposed sensor port. Be sure to properly install a port plug to seal the port. The port plug has o-rings and screws in. The red rubber port covers are just a temporary covering for shipping/storage - these are not waterproof port plugs.
+
+* pH sensors are made of very delicate glass. If you sneeze at them wrong, they can break. Be careful.
+
+* Make sure sensors are completely dry before installing them. Moisture will damage the sonde ports.
+
+* Do not attempt to operate the DO probe until you have configured the instrument for the correct probe and membrane type.
+
+* Please take your time and do not rush through this. Be sure to thoroughly read the relevant instructions here and in the manual. It is easy to overlook important steps that can damage the instrument if you are not careful and methodical.
+
+**General instructions**
+
+1. Take everything out of the case and figure out what all of the parts are. Be sure you can identify each of the sensors (DO, conductivity/temperature, pH), the probe/sonde, the probe guard, calibration cup, and protective sleeve, and probe port plugs.
+
+2. Skim the instruction manual to familiarize yourself with its content.
+
+3. Determine what you need to do to install and set up each of the probes and review the setup parameters below. Don't move on to the next step until we go over this as a class. Be sure to note:
+
+    * In what order should the sensors be installed?
+
+    * How do you need to configure the instrument before installing the DO sensor? What type of DO sensor do we have - galvanic or polarographic? What type of membrane is in the DO kit?
+
+    * How is conductivity/temperature sensor installation different from the other sensors?
+
+4. Install and set up the probes. Do not skip the setup step - you can damage the instrument if you attempt to operate the sensors without setting them up first.
+
+5. Calibrate DO using % saturation, pH using a 3-point calibration (pH 4, 7, 10), and conductivity using 10,000 uS/cm conductivity calibration solution.
+
+#### Sensor setup configurations
+
+**Dissolved oxygen**
+
+  * Check "enabled"
+  * Select the correct sensor and membrane types
+  * Local DO: keep unchecked
+  * LDS: keep unchecked
+
+**Conductivity**
+
+  * Check "enabled"
+  * Temp ref: do not change (should be 25)
+  * %/C: do not change
+  * TDS constant: do not change
+
+
+**ISE1 setup**
+
+  * Make sure the pH sensor is installed into the ISE1 port
+  * Check "enabled"
+  * Select pH
+  * Select the buffer set when prompted: USA (4, 7, 10)
+
+**Display setup**
+
+Select the following parameters for the display:
+
+  * Temperature (deg C)
+  * Dissolved oxygen %
+  * Dissolved oxygen mg/l
+  * Conductivity
+  * Salinity
+  * pH
+  * pH mv
+
+
