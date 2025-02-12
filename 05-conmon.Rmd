@@ -1,0 +1,103 @@
+---
+title: "05-conmon"
+output: html_document
+css: style.css
+---
+
+## Learning objectives
+
+* Correctly document multi-parameter sonde maintenance and calibration
+* Define *discrete* and *continuous* data
+* Describe factors that should be considered when selecting a continuous monitoring site
+* Describe factors that should be considered when designing a continuous monitoring system (which variables to measure, installation design, etc.)
+
+
+## Resources
+
+* [YSI maintenance and calibration logs](https://drive.google.com/drive/folders/1OBcuU-1zSeZQ3g4xwgtSO5rvijFvsPtW?usp=drive_link)
+* [USGS TM1-D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf)
+* [Slides](https://docs.google.com/presentation/d/1G7hgNhtZciZUJGy8lcRW-A57cRLWK2LmEA4Hlgndnng/)
+* [PME MiniDOT SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
+* [HOBO MX2202 light/temperature SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
+* [CONMON practice data folder](https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing)
+
+
+## Materials
+
+* PME MiniDOT loggers
+* HOBO Pendant MX Light/Temp loggers
+* alcohol wipes
+* silicon grease
+* small screwdrivers
+* MiniDOT connector cables and USB-C dongle
+* zip ties
+* bricks
+* kitty litter trays
+* scissors/snippers
+
+
+## Lesson plan
+
+### 1. Knot-tying "quiz"
+
+* bowline
+* lobster buoy hitch
+* clove hitch
+* half hitch
+
+### 2. YSI calibration and maintenance log
+
+a. Enter the maintenance and calibration actions we did last week in the [calibration and maintenance log](https://drive.google.com/drive/folders/1OBcuU-1zSeZQ3g4xwgtSO5rvijFvsPtW?usp=drive_link) that corresponds to your YSI serial number: 
+    
+    * 710: Savannah & Brooke
+    * 726: Liam & Leah
+    * 727: Graham & Sophia
+    * 729: Adriana & Kemper
+
+### 3. CONMON slides
+<iframe src="https://docs.google.com/presentation/d/1G7hgNhtZciZUJGy8lcRW-A57cRLWK2LmEA4Hlgndnng/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+### 4. Logger deployment practice
+
+**HOBO MX light/temp**
+
+a. Download the HoboConnect app on your smart phone.
+
+b. Using the HOBO MX light/temp logger [SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html) as a guide, play around with the logger to make sure you can:
+      
+    * Connect to the logger
+    * Program start and end date and time
+    * Program your desired sampling interval
+    * Also be aware of where the light sensor is: when deploying light sensors, you       need to make sure it will not be artifically shaded by your deployment  hardware or other objects in the area.
+
+c. Disconnect the top and bottom of the logger by twisting the bottom. Inspect the o-ring. Clean and lubricate if necessary. To lubricate, squeeze a tiny amount of silicone grease between your fingers and rub around the o-ring.  
+
+c. Program the logger to start 5 min from now, end 15 minutes from now, and collect a sample every 30 seconds.
+
+d. Attach the logger to the brick using zip ties following the instructor's guidance and place in a tub of water after you have also attached your DO logger. 
+
+**PME MiniDOT oxygen/temp**
+
+a. Familiarize yourself with the instrument. Make sure you can:
+
+    * identify the protective cap and the oxygen sensor
+    * remove the protective rubber cap and unscrew the body/housing tube from the black sensor head. Sometimes it sticks, so don't be afraid to use some elbow grease. Removing the sensor head will expose the inner electronics, so be careful and make sure the instrument and your surroundings are completely dry. It's ok if the dessicant packet falls out - just don't lose it.
+  
+b. Start the logger. These loggers are not as easily customizable as the HOBOs but they are easier to deploy: once you have unscrewed the sensor head, all you need to do is turn the switch on to the "Record" position. It will record data every 5 minutes.
+c. Attach the logger to the brick using zip ties following the instructor's guidance and place in a tub of water after you have also attached your light/temp logger. 
+
+### 5. Practice retrieval
+
+a. After your 10-minute deployment is complete, remove the loggers from the tub and remove from the block. Don't cut any reusable zip-ties.
+
+b. Dry the oxygen logger thoroughly with paper towels, then carefully open it. Wipe off any residual moisture on the o-ring/threads of the sensor head. Switch the logger off to the "Halt" position.
+
+c. Connect the oxygen logger to your computer using the supplied cable. It should be visible in your Finder/File explorer as an external D drive. Follow the Data Retrieval instructions in the [SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html). If you are unable to open the Concatenate program, you may need to [install Java](https://www.java.com/en/download/help/download_options.html) on your computer.
+
+d. Save the exported file to our shared [conmon-practice](https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing) Google Drive folder. Rename the file using the following convention: YYYY-MM-DD_DO_GROUPX. 
+
+e. Connect to your light/temp logger using the HOBOConnect app. Follow the post-processing and offloading data instructions in the [SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html). Download and view the data in your app. Then save it as a .csv file and export it to our [conmon-practice](https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing) shared Google Drive folder. Rename the file using the following convention: YYYY-MM-DD_LIGHT_GROUPX.
+
+
+
+
