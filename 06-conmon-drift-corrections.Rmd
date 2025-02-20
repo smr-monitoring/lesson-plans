@@ -1,0 +1,31 @@
+---
+title: "Continuous monitoring: Data corrections"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+* **Lab next week:** Hopefully we will deploy our CONMON loggers so be prepared to be outside for part of the time. **Dress appropriately!** Wear rugged shoes (sturdy sneakers or boots). Wear warm synthetic (e.g., fleece) or wool clothing if you have it - both of these materials dry quickly and stay warm even if they get wet. Cotton (jeans, sweatshirts, etc.) is notoriously cold and takes a long time to dry
+* **Practice your bowline and lobster buoy knots** if you still feel rusty - you will need to use them correctly next week.
+
+## Learning objectives
+
+* Describe and properly use the methods for identifying fouling and drift correction
+* Explain and use calculations for applying fouling and drift corrections 
+
+## Resources
+
+* [USGS TM1-D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf) p. 23-35
+* [Slides](https://docs.google.com/presentation/d/1MpLZJBUzWRgV7FLXTM75yRtSHC6TObAQW2D5VXuunL0/edit#slide=id.g30775365575_0_452)
+* [Data corrections answers spreadsheet](https://docs.google.com/spreadsheets/d/1xTNTT73qkWWaFum8Eo6gWN4tY908dNumNbA1fUGez48/edit?gid=0#gid=0)
+
+## Lesson plan
+
+1. Slides on fouling and sensor drift corrections 
+<iframe src="https://docs.google.com/presentation/d/1MpLZJBUzWRgV7FLXTM75yRtSHC6TObAQW2D5VXuunL0/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+2. Work through an example of fouling and calibration drift correction calculations together. You can find the spreadsheet we'll work with as In-class assignment-02 in Google Classroom.
+
+    FYI, the data for this exercise were retrieved from the USGS continuous water quality monitoring site [Broadkill River near Milton, DE](https://waterdata.usgs.gov/nwis/uv?site_no=01484272&legacy=1) from 9/1/2024-9/7/2024. I calculated hourly averages and cretated "artificial" fouling and calibration errors that we'll need to correct in order to caluclate what the actual data values should be.
+

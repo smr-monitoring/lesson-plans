@@ -1,0 +1,80 @@
+---
+title: "drift-example-data-prep"
+output: html_document
+date: "2025-02-20"
+---
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(zoo)
+```
+
+Download data from USGS Broadkill site (Milton, DE)
+read.table(url,skip = 7,sep="\t",fileEncoding = "UTF-16",nrow = 2172)
+```{r}
+url <- "https://nwis.waterdata.usgs.gov/nwis/uv?cb_00095=on&cb_00300=on&cb_00400=on&format=rdb&site_no=01484272&legacy=1&period=&begin_date=2024-09-01&end_date=2024-09-07"
+
+data <- read_table(url, skip = 27, col_names = c("agency", "site", "date", "time", "tz", 
+                                                         "sc_us_cm", "sc_code", "do_mg_l", "do_code", "ph", "ph_code"))
+```
+
+```{r}
+data_clean <- data |> 
+  select(-c(agency, site, tz, sc_code, do_code, ph_code)) |> 
+  mutate(hour = hour(time)) |> 
+  group_by(date, hour) |> 
+  summarize(across(sc_us_cm:ph, ~ mean(.x))) |> 
+  ungroup() |> 
+  mutate(hour = paste(hour, ":00", sep = ""),
+         datetime = ymd_hm(paste(date, hour, sep = " "))) |> 
+  select(datetime, do_mg_l, sc_us_cm, ph)
+
+data_clean |> 
+  tail()
+
+do_fouling <- 4
+do_calib <- 0
+
+ph_fouling <- 3
+ph_calib <- -1
+
+sc_fouling <- -1000
+sc_calib <- -500
+  
+data_clean1 <- data_clean |> 
+  mutate(do_fouling = NA,
+         do_calib = NA,
+         sc_fouling = NA,
+         sc_calib = NA,
+         ph_fouling = NA,
+         ph_calib = NA)
+
+data_clean1$do_fouling[168] = 4
+data_clean1$do_calib[168] = 0
+data_clean1$ph_fouling[168] = 3
+data_clean1$ph_calib[168] = -1
+data_clean1$sc_fouling[168] = -1000
+data_clean1$sc_calib[168] = -500
+
+data_clean1$do_fouling[1] = 0
+data_clean1$do_calib[1] = 0
+data_clean1$ph_fouling[1] = 0
+data_clean1$ph_calib[1] = 0
+data_clean1$sc_fouling[1] = 0
+data_clean1$sc_calib[1] = 0
+
+data_clean1 |> 
+  mutate(do_fouling = round(na.approx(do_fouling),3),
+         do_calib = round(na.approx(do_calib),3),
+         sc_fouling = round(na.approx(sc_fouling),3),
+         sc_calib = round(na.approx(sc_calib),3),
+         ph_fouling = round(na.approx(ph_fouling),3),
+         ph_calib = round(na.approx(ph_calib),3)) |> 
+  mutate(do_mgl_dirty = round(do_mg_l - do_calib - do_fouling, 3),
+         sc_mgl_dirty = round(sc_us_cm - sc_calib - sc_fouling, 3),
+         ph_dirty = round(ph - ph_calib - ph_fouling,3),
+         ) |> 
+  write_csv("drift_calcs.csv")
+```
+
