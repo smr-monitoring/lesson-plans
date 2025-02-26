@@ -1,0 +1,46 @@
+---
+title: "Continuous monitoring - deployment"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+* **Informal homework for next week:** Each person in your group should stop by your monitoring station at least once between now and next Thursday to make sure everything looks ok. 
+* **Lab next week:** We will retrieve our CONMON loggers next week so be prepared to be outside for part of the time
+
+## Learning objectives
+
+* Calibrate and program continuous water quality data loggers
+* Safely deploy a continuous monitoring station consisting of a series of data loggers
+
+## Supplies
+
+* GPS units
+* Field data sheet, clipboard, pencil
+* Light loggers
+* DO loggers
+* Concrete blocks
+* Line and buoys
+* Zip ties
+* Scissors/pliers
+
+## Resources
+
+* [DO logger SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
+* [light logger SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
+
+## Field safety
+
+* Clip and tighten the belt on your waders: it is designed to prevent water from flooding the waders if you fall or a wave over-tops the waders. If the waders get flooded, it is difficult to get out of the water and swim if you get pulled under. This is especially important when the water is cold - if you fall, you'll need to get out of the water adn dry off ASAP to prevent hypothermia.
+* Anyone who doesn't get in the water, keep an eye on the people in the water. Be ready to get the instructor's help if needed.
+
+## Lesson plan
+
+1. [Look up tides](https://www.tide-forecast.com/locations/Saint-Marys-City-Maryland/tides/latest) for today and next Thursday. Look at the tidal range for our location. What's the minimum depth we should deploy in, given the predicted tidal stage for this afternoon, to ensure the sensors stay underwater?
+1. Look up the weather forecast for the next week. Is any extreme weather predicted that we should take into consideration (wind > 15 mph, lots of rain, etc.)?
+1. Program light loggers to log at 15-minute intervals starting at 13:00 today.
+2. Switch DO loggers to "record" position
+3. Gather loggers, field data sheets/clipboards/pencils, zip ties, scissors/pliers, and line/buoys. Get geared up to go outside, get waders from SH basement. Walk to KH mud room to get concrete blocks and attach loggers.
+4. Deploy loggers. Make sure they are spread out enough to prevent the buoy lines from tangling.
+5. Be sure to record deployment date and time, location, buoy ID and sensor serial numbers on your field datasheet.
