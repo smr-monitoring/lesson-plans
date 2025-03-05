@@ -1,0 +1,93 @@
+---
+title: "Continuous monitoring - retrieval"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+* Have a restful spring break!
+
+
+## Learning objectives
+
+* Safely retrieve loggers following SOPs
+* Properly clean fouled loggers
+* Download and process logger data
+* Correct logger data for fouling and sensor drift
+* Save logger data to shared folder using consistent naming convention
+
+## Resources
+
+* [PME MiniDOT logger SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
+* [HOBO light-temperature logger SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
+* [Data folder](https://drive.google.com/drive/u/0/folders/1JkG81IuyT-K5dAlJL072_cE8q3svOoHo)
+
+## Supplies
+
+* large bins (4)
+* bins for loggers (4)
+* scissors or snips
+* squirt bottles with DI water
+* paper towels
+* YSI
+* printed logger retrieval logsheets (4)
+* bag or bin for used zip ties
+* scrub brushes
+
+## Procedures
+
+1. CG will first demo DO logger data processing and download and light calibration drift offset (% offset instead of linear).
+
+1. Retrieve loggers
+    * Get logger cap, data sheet, clip board/pencil, plastic tub, scissors/snippers, and waders. 
+    * Walk down to the waterfront.
+    * As you approach your loggers, try not to stir up the bottom - you don't want to mess up your light fouling drift measurements.
+    * Pull loggers out of water (still connected to concrete block) and note time on data sheet.
+    * Clean loggers using DI squirt bottle and/or paper towels.
+    * Return to water for fouling drift measurement, note time on data sheet, and allow to sit for at least 15 minutes (enjoy the weather in the meantime).
+    * Retrieve loggers, note time on data sheet, and remove from concrete block - don't cut reusable zip ties.
+    * Scrub the block in the river water.
+    * Return blocks to Kent mud room (leave outside of mudroom to dry).
+    * Return waders to SH basement.
+    * Return to lab with loggers and remaining gear.
+<br>
+<br>
+1. Back at the lab, clean loggers using tap water and scrub gently if needed, avoiding the sensor. Dry them well using paper towels. We don't need to do calibration drift checks on these loggers. Be sure to also dry the inside rims and threads of the DO logers as soon as you open them.
+
+1. Enter the data from your field data sheet into the `conmon_deployment_log` spreadsheet linked in the Resources section above.
+
+1. Process and download data as specified in the SOPs linked in the Resources section above. 
+    * The DO data will download as a .txt file onto your computer. Make sure you know where on your computer the file is saved. You'll need to import it into Excel on your computer first, then save it as a .csv file on your computer.
+    * Save the light and DO .csv files in the shared data folder linked above. 
+    * Use the following naming convention: `yyyy_mm_dd_parameter_group-letter` (all lowercase, with an underscore (`_`) in place of spaces; use date of deployment for the date). Your group letter is the letter on your buoy.
+    * e.g., `2024-09-27_do_a` or `2024-09-27_light_a`
+<br>
+<br>
+
+1. Clean light data and correct for drift:
+
+    - Right-click on your group's light .csv file and select `Open with / Google Sheets.`
+    - Find the most recent light measurement collected before you removed the loggers for cleaning - this will be M~b~ (monitor before cleaning). If the measurement was < ~1 minute before you removed it, find the measurement before that (you may have stirred up the bottom when approaching the sensor array).
+    - Find the most recent light measurement collected after you placed the loggers back into the water. This will M~a~ (monitor after cleaning).
+    - Your fouling drift correction factor is (M~a~ - M~b~)/M~b~ (this is a % multiplier that is used for parameters with large value ranges). 
+    - Delete any rows of data collected before you deployed the loggers and after you pulled them from the water to clean them (the times are on your field data sheet). Delete any extraneous columns (#, Button Down/Up, Host Connected, Stopped, End of File).
+    - Calculate the slope and intercept of your offset (CG will walk you through this in the beginning of class).
+    - Add a new column called offset and use the slope and intercept to calculate the offset.
+    - Add a new column called light_corrected_lux. Calculate the corrected light values by multiplying each raw light measurement by the offset.
+    - Plot your raw and corrected data to make sure everything looks ok.
+<br>
+<br>
+1. Clean DO data and correct for drift
+
+    - Right-click on your group's oxygen csv file and select Open with / Google Sheets.
+    - Find the most recent DO (mg/l) measurement collected before you removed the loggers for cleaning - this will be M~b~ (monitor before cleaning). If the measurement was < ~1 minute before you removed it, find the measurement before that (you may have stirred up the bottom when approaching the sensor array).
+    - Find the most recent DO measurement (mg/l) collected after you placed the loggers back into the water. This will M~a~ (monitor after cleaning).
+    - Your fouling drift correction factor is M~a~ - M~b~.
+    - Delete any rows of data collected before you deployed the loggers and after you pulled them from the water to clean them (the times are on your field data sheet).
+    - If the correction factor is +/- 0.3 mg/l, calculate the offset slope and intercept and apply the correction by adding the offset to the raw DO values. If the correction factor is less than +/- 0.3 mg/l, you don't need to apply a correction factor. 
+    - If you applied a correction factor to your DO (mg/l) data, repeat for DO (percent).
+    - Plot your raw and corrected data to make sure everything looks ok.
+
+<br>
+<br>
