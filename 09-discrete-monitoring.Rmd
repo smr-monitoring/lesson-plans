@@ -1,0 +1,53 @@
+---
+title: "Discrete monitoring"
+output: html_document
+css: style.css
+---
+
+## Housekeeping
+
+- We'll learn two new knots today: cleat hitch and clove hitch. We'll have a knot-tying "quiz" for these two knots next week in class.
+
+
+## Learning objectives
+
+- Tie a clove hitch and cleat hitch
+- Follow SOPs to measure a vertical light profile, YSI parameters, and secchi depth
+- Collect water samples
+- Follow SOPs to filter water for chl *a* and TSS
+
+
+## Resources
+
+- [SOP for secchi depth and vertial light profile](https://smr-monitoring.github.io/sop/secchi.html)
+- [SOP for YSI](https://smr-monitoring.github.io/sop/ysi.html)
+- SOP for [TSS](https://smr-monitoring.github.io/sop/tss.html) and [chl a](https://smr-monitoring.github.io/sop/chl-filtering.html) filtering
+
+
+## Supplies & equipment
+
+- dock lines
+- field data sheets
+- pencils
+- clip boards
+- LI-COR
+- YSIs
+- nalgene bottles (4)
+- secchi disks
+- waders
+- filtering gear (vacuum pump, manifold and filtering cup, forceps, filters, foils, skinny sharpies, plastic baggie, DI bottles)
+
+
+## Procedures
+
+1. Discuss: what lessons did you learn from deploying and retrieving the continuous monitoring sensors?
+1. Filtering slides
+1. Get waders, go to admissions pond to take water quality measurements.
+1. Go to dock, demo LI-COR, secchi, YSI, collecting water samples
+1. Go to River Center lab, demo filtering for TSS & chl *a*
+1. Two groups go get a water sample and come back up to the lab to filter
+1. Two groups go to the dock and measure secchi, YSI parameters, and collect a vertical light profile with the LI-COR
+1. Switch! 
+1. Return waders and gear to Schaefer
+
+<iframe src="https://docs.google.com/presentation/d/1rRQpPNB942s0fucaBhU-SqV36Jlg4J9XRe-w4qCcJNU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
