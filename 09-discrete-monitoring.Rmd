@@ -24,6 +24,7 @@ css: style.css
 - [SOP for YSI](https://smr-monitoring.github.io/sop/ysi.html)
 - SOP for [TSS](https://smr-monitoring.github.io/sop/tss.html) and [chl a](https://smr-monitoring.github.io/sop/chl-filtering.html) filtering
 - [data spreadsheet](https://drive.google.com/drive/folders/1FwTsPz89F6rkB8VK9UGrjffrvfalvkeT?usp=drive_link)
+- [YSI user manual](https://www.ysi.com/File%20Library/Documents/Manuals/606962-ProQuatro-User-Manual-English.pdf)
 
 
 ## Supplies & equipment
@@ -42,6 +43,13 @@ css: style.css
 ## Procedures
 
 1. Discuss: what lessons did you learn from deploying and retrieving the continuous monitoring sensors?
+  - Remember to take the cap off! Get totally familiar with your instruments so you can easily recognize potential problems or oversights
+  - Double check weather and make sure it's safe to deploy, check tide levels, make sure you're prepared to be comfortable outside (hot, cold, windy, rainy, buggy, etc.)
+  - Make sure software works
+  - Double/triple check instruments to make sure they are programmed correctly
+  - Take your time, don't rush 
+  - Take detailed notes
+  
 1. Filtering slides
 1. Calibrate YSIs 
 1. Go to dock, demo LI-COR, secchi, YSI, collecting water samples
