@@ -1,0 +1,24 @@
+---
+title: "Discrete measurements by boat"
+output: html_document
+css: style.css
+---
+
+## Details
+
+We'll be taking discrete water quality samples from the boat today in two groups:
+
+- Brooke, Adrianna, Savannah, Sophia, Graham meet in the River Center lab at 12:20
+  
+- Noah, Liam, Leah, Kemper meet at the dock at 1:45 (you can put your backpacks, etc. in the River Center lab before going on the boat)
+
+**Make sure to dress warm**, ideally with a wind-proof outer layer. Avoid cotton jeans/sweats. Wear waterproof boots or sneakers.
+
+## Resources
+
+- [Spreadsheet: YSI, secchi, and fluorescence](https://docs.google.com/spreadsheets/d/1TNuOyr2031jiTJS3mreCKCr4LfcJKxHhOsyJv3eaitU/edit?gid=0#gid=0)
+
+- [Spreadsheet: PAR profile](https://docs.google.com/spreadsheets/d/1OR_iyCXOUGX7zFtkHblEYv1u6rwX_naqYzRR0Lx5-rc/edit?gid=0#gid=0)
+
+- [TSS filtering SOP](https://smr-monitoring.github.io/sop/tss.html)
+-[Chl a filtering SOP](https://smr-monitoring.github.io/sop/chl-filtering.html)
