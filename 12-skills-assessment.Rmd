@@ -1,0 +1,12 @@
+---
+title: "Skills assessment"
+output: html_document
+css: style.css
+---
+
+* Meet in the River Center lab at your scheduled time. Sign up for a skills assessment time slot [here](https://docs.google.com/spreadsheets/d/1DQZy_el1P3STTJAK_oDW0vItPTuICWyn_ZPAt6kokbE/edit?gid=0#gid=0)
+
+* Please aim to arrive a few minutes early so we can get started right on time!
+
+* We will use [this checklist](https://smr-monitoring.github.io/MRNE395-2025SP/skills-checklist.html) for the skills assessment
+

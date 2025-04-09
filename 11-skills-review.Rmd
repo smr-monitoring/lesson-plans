@@ -6,9 +6,9 @@ css: style.css
 
 ## Housekeeping
 
-* Sign up for skills assessment time slot [here](https://docs.google.com/spreadsheets/d/1hLHxzoFL6l4t2Bhw_rAb9f7xipIo0W3GSJmhjz17Hp8/edit?gid=0#gid=0)
-* We will meet in the River Center lab next week for the skills assessment.
-* Final exam is Thursday 12/12 9:00-11:15 in this room (SH116). It will be multiple choice, based on the learning objectives listed on the weekly class pages.
+* Sign up for skills assessment time slot [here](https://docs.google.com/spreadsheets/d/1DQZy_el1P3STTJAK_oDW0vItPTuICWyn_ZPAt6kokbE/edit?gid=0#gid=0)
+* We will meet in the River Center lab next week for the skills assessment at your designated time 
+* Final learning reflection will be due on the last day of classes - I will send out more on this soon.
 
 ## Learning objectives
 
@@ -26,15 +26,15 @@ In groups of 2, test each other on monitoring methods. As you rotate through the
 
 1.  Calibrate a YSI
 
-2.  Program a continuous data logger (light/temperature) and prepare for deployment (attach logger, line, and buoy to block using proper knots: bowline and lobster buoy hitch)
+2.  Program a continuous data logger (light/temperature) and prepare for deployment (attach logger, line, and buoy to brick using proper knots: bowline and lobster buoy hitch)
 
-3. Filter water samples for chl *a* and TSS
+3. Filter water samples for TSS
 
-**At the waterfront:**
+**On the dock:**
 
 4. Take basic water quality measurements (YSI, secchi, vertical light profile, fluorescence) and properly record data on field datasheet
 
-5. Properly secure a boat using a cleat hitch
+5. Properly secure a boat using a cleat hitch and a clove hitch+half hitch
 
 ### Supplies
 
