@@ -16,7 +16,7 @@ css: style.css
 
 ## Resources
 
-* [Skills checklist](https://smr-monitoring.github.io/MRNE395-2024FA/skills-checklist.html)
+* [Skills checklist](https://smr-monitoring.github.io/MRNE395-2025SP/skills-checklist.html)
 
 ## Lesson plan
 
