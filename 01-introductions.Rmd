@@ -7,7 +7,7 @@ css: style.css
 ## Housekeeping
 
 * For next week, HW-1: Restoration goals and outcomes. Available in Google Classroom. Submit there.
-* Check that the info I have for you in [this spreadsheet](https://docs.google.com/spreadsheets/d/1OwoS75p63FdDv0GcfY--HwPxPycDWk6H5lpQVXmCz0A/edit?usp=sharing) is correct. Add your pronouns and majro(s)/minor(s). If you're not on the spreadsheet, add yourself!
+* In two weeks (Fri 9/19) we will conduct SAV monitoring using the SAV Watchers protocol at St. Inigoes Landing. We'll have to wade into the water from a beach. There is usually SAV in knee-deep water at this site as well as waist to chest deep depending on the tide. If you feel comfortable wading into deeper water, wear a bathing suit and quick-dry shorts/tights/shirt. Otherwise just wear comfortable clothes you don't mind getting a little wet. **Everyone needs to wear shoes in the water. Dive booties or water shoes are ideal, tevas/chacos or crocs are ok. No flip-flops. Bring a towel to dry off and sit on in the van.** 
 
 ## Learning objectives
 
@@ -31,10 +31,10 @@ css: style.css
 
 ### 2. Course logistics
 
-* Course website url: [https://smr-monitoring.github.io/MRNE395-2024FA/](https://smr-monitoring.github.io/MRNE395-2024FA/). Bookmark this link - it has everything you need for the class.
-* The [syllabus](https://smr-monitoring.github.io/MRNE395-2024FA/syllabus.html) contains information on assessment and class policies.
-* The [schedule](https://smr-monitoring.github.io/MRNE395-2024FA/schedule.html) is our master organizer. All assignments, slides, etc. are linked here by date.
-* The [SOPs](https://smr-monitoring.github.io/MRNE395-2024FA/sops.html) page contains links to all of the standard operating procedures we'll use to conduct our monitoring program
+* Course website url: [https://smr-monitoring.github.io/MRNE395-2025FA/](https://smr-monitoring.github.io/MRNE395-2025FA/). Bookmark this link - it has everything you need for the class.
+* The [syllabus](https://smr-monitoring.github.io/MRNE395-2025FA/syllabus.html) contains information on assessment and class policies.
+* The [schedule](https://smr-monitoring.github.io/MRNE395-2025FA/schedule.html) is our master organizer. All assignments, slides, etc. are linked here by date.
+* The [SOPs](https://smr-monitoring.github.io/MRNE395-2025FA/sops.html) page contains links to all of the standard operating procedures we'll use to conduct our monitoring program
 
 ### 3. Intro to coastal monitoring
 
