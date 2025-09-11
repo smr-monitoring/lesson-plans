@@ -6,7 +6,11 @@ css: style.css
 
 ## Housekeeping 
 
-* HW-02 posted in Google Classroom, due before class next Thursday
+* HW-02 posted in Google Classroom, due before class next Friday
+* Next week (Fri 9/19) we will conduct SAV monitoring using the SAV Watchers protocol at St. Inigoes Landing. We'll wade into the water from a beach. 
+  * WEAR: bathing suit with shorts/pants and sun shirt or bring a dive skin/wetsuit
+  * BRING IN THE FIELD: water bottle, towel, shoes to wear in the water (dive booties, water shoes, old sneakers, tevas/chacos; NO flipflops)
+  * LEAVE IN THE CLASSROOM: dry clothes to change into
 
 ## Learning objectives
 
@@ -21,7 +25,18 @@ css: style.css
 
 ## Lesson plan
 
-### 1. Go over HW-01
+### 1. Download SAV monitoring data entry app
+
+- Download the ArcGIS Survey123 app on your phone from your phone's app store
+- Open the ArcGIS Survey123 app and select “While using the app” to allow
+ArcGIS Survey123 to take pictures and record video. Then select “Allow” ArcGIS Survey123 to send you notifications.
+- The app will take you to a home page. Select “Continue without signing in”
+- Select “While using the app” to allow access to your device’s location.
+- Select the mini QR Code symbol in the upper right corner of the search bar. This will open your camera.
+- The QR Code should take you to a link that will prompt you to either select “Open in browser” or “Open in the Survey123 field app.” Select “Open in the Survey123 field app.” The link will then switch over to your app, download the survey, and then open the survey through the app.
+- You can exit the survey by pressing the “X” in the upper left corner and then select “Close and lose changes.” It will take you back to your survey menu with the survey downloaded and easily accessible. NOTE: Only smartphone users have the ability to save an observation as a draft and return to it.
+
+### 2. Go over HW-01
 
 Get into three groups. Compare your answers for all of the questions. Once you've had a chance to discuss amongst yourselves, we'll go over the questions together. Each group will report their responses to the following sets of questions:
 
@@ -29,11 +44,11 @@ Get into three groups. Compare your answers for all of the questions. Once you'v
 - Group 2: 2 a-d and 3
 - Group 3: 4 a-d
 
-### 2. Slides on WQ criteria 
+### 3. Slides on WQ criteria 
 
 <iframe src="https://docs.google.com/presentation/d/1lXwrBQ09VPu7JXGHzPzio329Imnn8pGG9BIEbH7v69Y/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
-### 3. k~d~ calculations
+### 4. k~d~ calculations
 
 Go to Google Classroom. Go to the Classwork page and open the in-class assignment for today (In-class 1: Kd calculations). Open the spreadsheet linked to the assignment. I'll walk you through the rest of the activity.
 

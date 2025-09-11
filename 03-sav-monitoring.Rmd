@@ -1,0 +1,43 @@
+---
+title: "Water quality criteria"
+output: html_document
+css: style.css
+---
+
+## Housekeeping 
+
+* HW-03
+* Today we will conduct SAV monitoring using the SAV Watchers protocol at St. Inigoes Landing. We'll wade into the water from a beach. 
+  * WEAR: bathing suit with shorts/pants and sun shirt or bring a dive skin/wetsuit
+  * BRING IN THE FIELD: water bottle, towel, shoes to wear in the water (dive booties, water shoes, old sneakers, tevas/chacos; NO flipflops)
+  * LEAVE IN THE CLASSROOM: dry clothes to change into
+
+## Learning objectives
+
+* Describe what SAV is and why it is important in estuarine ecosystems
+* Explain why SAV is a good ecological indicator
+* Describe each of the three Chesapeake Bay SAV monitoring tiers
+* Explain why a tiered approach to SAV monitoring is useful
+
+## Resources
+
+* [Slides on SAV monitoring]()
+* SAV monitoring
+* SAV watchers
+
+## Lesson plan
+
+### 1. If you haven't already, download SAV monitoring data entry app
+
+- Download the ArcGIS Survey123 app on your phone from your phone's app store
+- Open the ArcGIS Survey123 app and select “While using the app” to allow
+ArcGIS Survey123 to take pictures and record video. Then select “Allow” ArcGIS Survey123 to send you notifications.
+- The app will take you to a home page. Select “Continue without signing in”
+- Select “While using the app” to allow access to your device’s location.
+- Select the mini QR Code symbol in the upper right corner of the search bar. This will open your camera.
+- The QR Code should take you to a link that will prompt you to either select “Open in browser” or “Open in the Survey123 field app.” Select “Open in the Survey123 field app.” The link will then switch over to your app, download the survey, and then open the survey through the app.
+- You can exit the survey by pressing the “X” in the upper left corner and then select “Close and lose changes.” It will take you back to your survey menu with the survey downloaded and easily accessible. NOTE: Only smartphone users have the ability to save an observation as a draft and return to it.
+
+
+
+
