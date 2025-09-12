@@ -37,6 +37,7 @@ ArcGIS Survey123 to take pictures and record video. Then select “Allow” ArcG
 - The app will take you to a home page. Select “Continue without signing in”
 - Select “While using the app” to allow access to your device’s location.
 - Select the mini QR Code symbol in the upper right corner of the search bar. This will open your camera.
+![qr code](img/sav_survey_qr.png)
 - The QR Code should take you to a link that will prompt you to either select “Open in browser” or “Open in the Survey123 field app.” Select “Open in the Survey123 field app.” The link will then switch over to your app, download the survey, and then open the survey through the app.
 - You can exit the survey by pressing the “X” in the upper left corner and then select “Close and lose changes.” It will take you back to your survey menu with the survey downloaded and easily accessible. NOTE: Only smartphone users have the ability to save an observation as a draft and return to it.
 
