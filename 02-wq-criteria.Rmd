@@ -16,6 +16,10 @@ css: style.css
 
 * Define designated use and summarize the five designated uses of the Chesapeake Bay ecosystem
 * Explain how water quality attainment criteria for dissolved oxygen, SAV/water clarity, and chlorophyll a are derived
+* Define PAR, K~d~, and PLW
+* Calculate K~d~ using a vertical PAR profile
+* Calculate PLW at a given depth using K~d~
+* Determine the maximum expected depth of SAV colonization using K~d~
 
 ## Resources
 
