@@ -16,6 +16,7 @@ css: style.css
 
 ## Resources
 
+* [Knot-tying videos](https://smr-monitoring.github.io/MRNE395-2025FA/knot-tying.html)
 * [YSI User Manual](https://www.ysi.com/file%20library/documents/manuals/605596-ysi-proplus-user-manual-revd.pdf?srsltid=AfmBOopUsNvrF4nvNMXxaXKQgXx3PFv5taoQNpROIKnSJmSVQ7eDM7-3)
 
 ## Lesson plan
