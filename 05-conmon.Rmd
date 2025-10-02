@@ -1,38 +1,40 @@
 ---
-title: "05-conmon"
+title: "Continuous monitoring practice deployment"
 output: html_document
 css: style.css
 ---
 
 ## Learning objectives
 
-* Correctly document multi-parameter sonde maintenance and calibration
 * Define *discrete* and *continuous* data
 * Describe factors that should be considered when selecting a continuous monitoring site
 * Describe factors that should be considered when designing a continuous monitoring system (which variables to measure, installation design, etc.)
+* Program and deploy continuous monitoring loggers
+* Retrieve data from continuous monitoring loggers
+* Properly name and organize continuous monitoring data files
 
 
 ## Resources
 
-* [YSI maintenance and calibration logs](https://drive.google.com/drive/folders/1OBcuU-1zSeZQ3g4xwgtSO5rvijFvsPtW?usp=drive_link)
 * [USGS TM1-D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf)
 * [Slides](https://docs.google.com/presentation/d/1G7hgNhtZciZUJGy8lcRW-A57cRLWK2LmEA4Hlgndnng/)
 * [PME MiniDOT SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
 * [HOBO MX2202 light/temperature SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
-* [CONMON practice data folder](https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing)
+* [CONMON practice data folder](https://drive.google.com/drive/folders/1c7jRuruyRQ1XK1NwUmhh8p1N0XJrPela?usp=sharing)
 
 
 ## Materials
 
 * PME MiniDOT loggers
 * HOBO Pendant MX Light/Temp loggers
+* HOBO pH loggers
 * alcohol wipes
 * silicon grease
 * small screwdrivers
 * MiniDOT connector cables and USB-C dongle
 * zip ties
 * bricks
-* kitty litter trays
+* trays or paper to protect work surface
 * scissors/snippers
 
 
@@ -42,19 +44,10 @@ css: style.css
 
 * bowline
 * lobster buoy hitch
-* clove hitch
 * half hitch
 
-### 2. YSI calibration and maintenance log
 
-a. Enter the maintenance and calibration actions we did last week in the [calibration and maintenance log](https://drive.google.com/drive/folders/1OBcuU-1zSeZQ3g4xwgtSO5rvijFvsPtW?usp=drive_link) that corresponds to your YSI serial number: 
-    
-    * 710: Savannah & Brooke
-    * 726: Liam & Leah
-    * 727: Graham & Sophia
-    * 729: Adriana & Kemper
-
-### 3. CONMON slides
+### 2. CONMON slides
 <iframe src="https://docs.google.com/presentation/d/1G7hgNhtZciZUJGy8lcRW-A57cRLWK2LmEA4Hlgndnng/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
 
 ### 4. Logger deployment practice
@@ -63,7 +56,7 @@ a. Enter the maintenance and calibration actions we did last week in the [calibr
 
 a. Download the HoboConnect app on your smart phone.
 
-b. Using the HOBO MX light/temp logger [SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html) as a guide, play around with the logger to make sure you can:
+b. Using the [HOBO MX light/temp logger SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html) as a guide, play around with the logger to make sure you can:
       
     * Connect to the logger
     * Program start and end date and time
@@ -76,6 +69,25 @@ c. Program the logger to start 5 min from now, end 15 minutes from now, and coll
 
 d. Attach the logger to the brick using zip ties following the instructor's guidance and place in a tub of water after you have also attached your DO logger. 
 
+**HOBO pH**
+
+a. Using the [HOBO pH logger SOP](https://smr-monitoring.github.io/sop/ph-logger-hobo.html) as a guide, play around with the logger to make sure you can:
+      
+    * Identify the pH sensor
+    * Remove the sensor storage cap and screw on the deployment cap
+    * Connect to the logger
+    * Program start and end date and time
+    * Program your desired sampling interval
+  
+b. Be careful not to touch the sensor bulb - it is very delicate. Also don't let the sensor sit out in the air for too long - if it dries, it dies!
+
+c. Inspect the o-ring. Clean and lubricate if necessary.   
+
+c. Program the logger to start 5 min from now, end 15 minutes from now, and collect a sample every 30 seconds.
+
+d. Attach the logger to the brick using zip ties following the instructor's guidance and place in a tub of water after you have also attached your DO logger. 
+
+
 **PME MiniDOT oxygen/temp**
 
 a. Familiarize yourself with the instrument. Make sure you can:
@@ -84,6 +96,7 @@ a. Familiarize yourself with the instrument. Make sure you can:
     * remove the protective rubber cap and unscrew the body/housing tube from the black sensor head. Sometimes it sticks, so don't be afraid to use some elbow grease. Removing the sensor head will expose the inner electronics, so be careful and make sure the instrument and your surroundings are completely dry. It's ok if the dessicant packet falls out - just don't lose it.
   
 b. Start the logger. These loggers are not as easily customizable as the HOBOs but they are easier to deploy: once you have unscrewed the sensor head, all you need to do is turn the switch on to the "Record" position. It will record data every 5 minutes.
+
 c. Attach the logger to the brick using zip ties following the instructor's guidance and place in a tub of water after you have also attached your light/temp logger. 
 
 ### 5. Practice retrieval
@@ -94,9 +107,11 @@ b. Dry the oxygen logger thoroughly with paper towels, then carefully open it. W
 
 c. Connect the oxygen logger to your computer using the supplied cable. It should be visible in your Finder/File explorer as an external D drive. Follow the Data Retrieval instructions in the [SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html). If you are unable to open the Concatenate program, you may need to [install Java](https://www.java.com/en/download/help/download_options.html) on your computer.
 
-d. Save the exported file to our shared [conmon-practice](https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing) Google Drive folder. Rename the file using the following convention: YYYY-MM-DD_DO_GROUPX. 
+d. Save the exported file to our shared [conmon-practice](https://drive.google.com/drive/folders/1c7jRuruyRQ1XK1NwUmhh8p1N0XJrPela?usp=sharing) Google Drive folder. Rename the file using the following convention: YYYY-MM-DD_DO_GROUPX. 
 
-e. Connect to your light/temp logger using the HOBOConnect app. Follow the post-processing and offloading data instructions in the [SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html). Download and view the data in your app. Then save it as a .csv file and export it to our [conmon-practice](https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing) shared Google Drive folder. Rename the file using the following convention: YYYY-MM-DD_LIGHT_GROUPX.
+e. Connect to your light/temp logger using the HOBOConnect app. Follow the post-processing and offloading data instructions in the [SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html). Download and view the data in your app. Then save it as a .csv file and export it to our [conmon-practice](https://drive.google.com/drive/folders/1c7jRuruyRQ1XK1NwUmhh8p1N0XJrPela?usp=sharing) shared Google Drive folder. Rename the file using the following convention: YYYY-MM-DD_LIGHT_GROUPX.
+
+f. Repeat step e for the pH logger. Rename the file using the following convention: YYYY-MM-DD_PH_GROUPX.
 
 
 

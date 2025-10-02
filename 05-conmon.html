@@ -11,7 +11,7 @@
 
 
 
-<title>05-conmon</title>
+<title>Continuous monitoring practice deployment</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -429,7 +429,8 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">05-conmon</h1>
+<h1 class="title toc-ignore">Continuous monitoring practice
+deployment</h1>
 
 </div>
 
@@ -437,21 +438,20 @@ display: none;
 <div id="learning-objectives" class="section level2">
 <h2>Learning objectives</h2>
 <ul>
-<li>Correctly document multi-parameter sonde maintenance and
-calibration</li>
 <li>Define <em>discrete</em> and <em>continuous</em> data</li>
 <li>Describe factors that should be considered when selecting a
 continuous monitoring site</li>
 <li>Describe factors that should be considered when designing a
 continuous monitoring system (which variables to measure, installation
 design, etc.)</li>
+<li>Program and deploy continuous monitoring loggers</li>
+<li>Retrieve data from continuous monitoring loggers</li>
+<li>Properly name and organize continuous monitoring data files</li>
 </ul>
 </div>
 <div id="resources" class="section level2">
 <h2>Resources</h2>
 <ul>
-<li><a href="https://drive.google.com/drive/folders/1OBcuU-1zSeZQ3g4xwgtSO5rvijFvsPtW?usp=drive_link">YSI
-maintenance and calibration logs</a></li>
 <li><a href="https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf">USGS
 TM1-D3</a></li>
 <li><a href="https://docs.google.com/presentation/d/1G7hgNhtZciZUJGy8lcRW-A57cRLWK2LmEA4Hlgndnng/">Slides</a></li>
@@ -459,7 +459,7 @@ TM1-D3</a></li>
 MiniDOT SOP</a></li>
 <li><a href="https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html">HOBO
 MX2202 light/temperature SOP</a></li>
-<li><a href="https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing">CONMON
+<li><a href="https://drive.google.com/drive/folders/1c7jRuruyRQ1XK1NwUmhh8p1N0XJrPela?usp=sharing">CONMON
 practice data folder</a></li>
 </ul>
 </div>
@@ -468,13 +468,14 @@ practice data folder</a></li>
 <ul>
 <li>PME MiniDOT loggers</li>
 <li>HOBO Pendant MX Light/Temp loggers</li>
+<li>HOBO pH loggers</li>
 <li>alcohol wipes</li>
 <li>silicon grease</li>
 <li>small screwdrivers</li>
 <li>MiniDOT connector cables and USB-C dongle</li>
 <li>zip ties</li>
 <li>bricks</li>
-<li>kitty litter trays</li>
+<li>trays or paper to protect work surface</li>
 <li>scissors/snippers</li>
 </ul>
 </div>
@@ -485,26 +486,11 @@ practice data folder</a></li>
 <ul>
 <li>bowline</li>
 <li>lobster buoy hitch</li>
-<li>clove hitch</li>
 <li>half hitch</li>
 </ul>
 </div>
-<div id="ysi-calibration-and-maintenance-log" class="section level3">
-<h3>2. YSI calibration and maintenance log</h3>
-<ol style="list-style-type: lower-alpha">
-<li><p>Enter the maintenance and calibration actions we did last week in
-the <a href="https://drive.google.com/drive/folders/1OBcuU-1zSeZQ3g4xwgtSO5rvijFvsPtW?usp=drive_link">calibration
-and maintenance log</a> that corresponds to your YSI serial number:</p>
-<ul>
-<li>710: Savannah &amp; Brooke</li>
-<li>726: Liam &amp; Leah</li>
-<li>727: Graham &amp; Sophia</li>
-<li>729: Adriana &amp; Kemper</li>
-</ul></li>
-</ol>
-</div>
 <div id="conmon-slides" class="section level3">
-<h3>3. CONMON slides</h3>
+<h3>2. CONMON slides</h3>
 <iframe src="https://docs.google.com/presentation/d/1G7hgNhtZciZUJGy8lcRW-A57cRLWK2LmEA4Hlgndnng/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1">
 </iframe>
 </div>
@@ -513,8 +499,9 @@ and maintenance log</a> that corresponds to your YSI serial number:</p>
 <p><strong>HOBO MX light/temp</strong></p>
 <ol style="list-style-type: lower-alpha">
 <li><p>Download the HoboConnect app on your smart phone.</p></li>
-<li><p>Using the HOBO MX light/temp logger <a href="https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html">SOP</a>
-as a guide, play around with the logger to make sure you can:</p>
+<li><p>Using the <a href="https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html">HOBO
+MX light/temp logger SOP</a> as a guide, play around with the logger to
+make sure you can:</p>
 <ul>
 <li>Connect to the logger</li>
 <li>Program start and end date and time</li>
@@ -527,6 +514,28 @@ deployment hardware or other objects in the area.</li>
 bottom. Inspect the o-ring. Clean and lubricate if necessary. To
 lubricate, squeeze a tiny amount of silicone grease between your fingers
 and rub around the o-ring.</p></li>
+<li><p>Program the logger to start 5 min from now, end 15 minutes from
+now, and collect a sample every 30 seconds.</p></li>
+<li><p>Attach the logger to the brick using zip ties following the
+instructor’s guidance and place in a tub of water after you have also
+attached your DO logger.</p></li>
+</ol>
+<p><strong>HOBO pH</strong></p>
+<ol style="list-style-type: lower-alpha">
+<li><p>Using the <a href="https://smr-monitoring.github.io/sop/ph-logger-hobo.html">HOBO pH
+logger SOP</a> as a guide, play around with the logger to make sure you
+can:</p>
+<ul>
+<li>Identify the pH sensor</li>
+<li>Remove the sensor storage cap and screw on the deployment cap</li>
+<li>Connect to the logger</li>
+<li>Program start and end date and time</li>
+<li>Program your desired sampling interval</li>
+</ul></li>
+<li><p>Be careful not to touch the sensor bulb - it is very delicate.
+Also don’t let the sensor sit out in the air for too long - if it dries,
+it dies!</p></li>
+<li><p>Inspect the o-ring. Clean and lubricate if necessary.</p></li>
 <li><p>Program the logger to start 5 min from now, end 15 minutes from
 now, and collect a sample every 30 seconds.</p></li>
 <li><p>Attach the logger to the brick using zip ties following the
@@ -569,15 +578,17 @@ cable. It should be visible in your Finder/File explorer as an external
 D drive. Follow the Data Retrieval instructions in the <a href="https://smr-monitoring.github.io/sop/do-logger-pme.html">SOP</a>.
 If you are unable to open the Concatenate program, you may need to <a href="https://www.java.com/en/download/help/download_options.html">install
 Java</a> on your computer.</p></li>
-<li><p>Save the exported file to our shared <a href="https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing">conmon-practice</a>
+<li><p>Save the exported file to our shared <a href="https://drive.google.com/drive/folders/1c7jRuruyRQ1XK1NwUmhh8p1N0XJrPela?usp=sharing">conmon-practice</a>
 Google Drive folder. Rename the file using the following convention:
 YYYY-MM-DD_DO_GROUPX.</p></li>
 <li><p>Connect to your light/temp logger using the HOBOConnect app.
 Follow the post-processing and offloading data instructions in the <a href="https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html">SOP</a>.
 Download and view the data in your app. Then save it as a .csv file and
-export it to our <a href="https://drive.google.com/drive/folders/1klVZsVxpPuIdZ5DN9kvnVqFZWkHFEehf?usp=sharing">conmon-practice</a>
+export it to our <a href="https://drive.google.com/drive/folders/1c7jRuruyRQ1XK1NwUmhh8p1N0XJrPela?usp=sharing">conmon-practice</a>
 shared Google Drive folder. Rename the file using the following
 convention: YYYY-MM-DD_LIGHT_GROUPX.</p></li>
+<li><p>Repeat step e for the pH logger. Rename the file using the
+following convention: YYYY-MM-DD_PH_GROUPX.</p></li>
 </ol>
 </div>
 </div>
