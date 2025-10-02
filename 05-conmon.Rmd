@@ -27,7 +27,7 @@ css: style.css
 
 * PME MiniDOT loggers
 * HOBO Pendant MX Light/Temp loggers
-* HOBO pH loggers
+* HOBO pH loggers and storage solution
 * alcohol wipes
 * silicon grease
 * small screwdrivers
