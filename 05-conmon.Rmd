@@ -52,24 +52,9 @@ css: style.css
 
 ### 4. Logger deployment practice
 
-**HOBO MX light/temp**
-
-a. Download the HoboConnect app on your smart phone.
-
-b. Using the [HOBO MX light/temp logger SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html) as a guide, play around with the logger to make sure you can:
-      
-    * Connect to the logger
-    * Program start and end date and time
-    * Program your desired sampling interval
-    * Also be aware of where the light sensor is: when deploying light sensors, you       need to make sure it will not be artifically shaded by your deployment  hardware or other objects in the area.
-
-c. Disconnect the top and bottom of the logger by twisting the bottom. Inspect the o-ring. Clean and lubricate if necessary. To lubricate, squeeze a tiny amount of silicone grease between your fingers and rub around the o-ring.  
-
-c. Program the logger to start 5 min from now, end 15 minutes from now, and collect a sample every 30 seconds.
-
-d. Attach the logger to the brick using zip ties following the instructor's guidance and place in a tub of water after you have also attached your DO logger. 
-
 **HOBO pH**
+
+First download the HoboConnect app on your smart phone.
 
 a. Using the [HOBO pH logger SOP](https://smr-monitoring.github.io/sop/ph-logger-hobo.html) as a guide, play around with the logger to make sure you can:
       
@@ -90,7 +75,9 @@ d. Attach the logger to the brick using zip ties following the instructor's guid
 
 **PME MiniDOT oxygen/temp**
 
-a. Familiarize yourself with the instrument. Make sure you can:
+
+
+a. Using the [PME MiniDOT SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html), familiarize yourself with the instrument. Make sure you can:
 
     * identify the protective cap and the oxygen sensor
     * remove the protective rubber cap and unscrew the body/housing tube from the black sensor head. Sometimes it sticks, so don't be afraid to use some elbow grease. Removing the sensor head will expose the inner electronics, so be careful and make sure the instrument and your surroundings are completely dry. It's ok if the dessicant packet falls out - just don't lose it.
