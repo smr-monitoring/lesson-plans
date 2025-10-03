@@ -21,6 +21,7 @@ css: style.css
 * [PME MiniDOT SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
 * [HOBO MX2202 light/temperature SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
 * [CONMON practice data folder](https://drive.google.com/drive/folders/1c7jRuruyRQ1XK1NwUmhh8p1N0XJrPela?usp=sharing)
+* [HOBO ph manual](https://www.onsetcomp.com/sites/default/files/2022-11/22511-Q%20MX2501%20Manual.pdf)
 
 
 ## Materials
@@ -55,6 +56,8 @@ css: style.css
 **HOBO pH**
 
 First download the HoboConnect app on your smart phone.
+
+Then use the [HOBO ph manual](https://www.onsetcomp.com/sites/default/files/2022-11/22511-Q%20MX2501%20Manual.pdf) to install a new pH sensor.
 
 a. Using the [HOBO pH logger SOP](https://smr-monitoring.github.io/sop/ph-logger-hobo.html) as a guide, play around with the logger to make sure you can:
       
