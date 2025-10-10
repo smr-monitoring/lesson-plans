@@ -27,19 +27,20 @@ css: style.css
 
 ## Resources
 
-* [DO logger SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
+* [HOBO pH logger SOP](https://smr-monitoring.github.io/sop/ph-logger-hobo.html)
 * [PME MiniDOT SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
 
 ## Field safety
 
-* Clip and tighten the belt on your waders: it is designed to prevent water from flooding the waders if you fall or a wave over-tops the waders. If the waders get flooded, it is difficult to get out of the water and swim if you get pulled under. This is especially important when the water is cold - if you fall, you'll need to get out of the water adn dry off ASAP to prevent hypothermia.
+* Clip and tighten the belt on your waders: it is designed to prevent water from flooding the waders if you fall or a wave over-tops the waders. If the waders get flooded, it is difficult to get out of the water and swim if you get pulled under. This is especially important when the water is cold - if you fall, you'll need to get out of the water and dry off ASAP to prevent hypothermia.
 * Anyone who doesn't get in the water, keep an eye on the people in the water. Be ready to get the instructor's help if needed.
 
 ## Lesson plan
 
 1. [Look up tides](https://www.tide-forecast.com/locations/Saint-Marys-City-Maryland/tides/latest) for today and next Friday. Look at the tidal range for our location. What's the minimum depth we should deploy in, given the predicted tidal stage for this afternoon, to ensure the sensors stay underwater?
 1. Look up the weather forecast for the next week. Is any extreme weather predicted that we should take into consideration (wind > 15 mph, lots of rain, etc.)?
-1. Program pH loggers to log at 15-minute intervals starting at 13:00 today.
+1. Use the instruction manual to figure out how to mark a waypoint on the handheld GPS unit and how to get the latitude and longitude coordinates of the waypoint.
+1. Program pH loggers to log at 15-minute intervals starting at 11:00 today. Don't program a stop time.
 2. Switch DO loggers to "record" position
 3. Gather loggers, field data sheets/clipboards/pencils, zip ties, scissors/pliers, and line/buoys. Get geared up to go outside, get waders from SH basement. Walk to KH mud room to get concrete blocks and attach loggers.
 4. Deploy loggers. Make sure they are spread out enough to prevent the buoy lines from tangling.
