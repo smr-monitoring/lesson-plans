@@ -20,7 +20,7 @@ css: style.css
 ## Resources
 
 * [PME MiniDOT logger SOP](https://smr-monitoring.github.io/sop/do-logger-pme.html)
-* [HOBO light-temperature logger SOP](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
+* [HOBO pH logger SOP](https://smr-monitoring.github.io/sop/ph-logger-hobo.html)
 * [Data folder](https://drive.google.com/drive/folders/1HenKOqVGsJ_j6egivQh6nvkLq1Wx2ayf?usp=sharing)
 * [USGS TM1D3](https://pubs.usgs.gov/tm/2006/tm1D3/pdf/TM1D3.pdf)
 
@@ -30,7 +30,7 @@ css: style.css
 * scissors or snips
 * squirt bottles with DI water
 * paper towels
-* YSIs
+* YSI
 * printed logger retrieval logsheets (2)
 * bag or bin for used zip ties
 * scrub brushes
@@ -44,10 +44,10 @@ css: style.css
 
 ## Procedures
 
-1. Calibrate pH and DO on the YSIs.
+1. Calibrate pH and DO on the YSI.
 
 1. Retrieve loggers
-    * Get logger cap, data sheet, clip board/pencil, plastic tub, scissors/snippers, and waders. 
+    * Get logger caps, data sheet, clip board/pencil, plastic tub, scissors/snippers, and waders. 
     * Walk down to the waterfront.
     * As you approach your loggers, try not to stir up the bottom - you don't want to mess up your fouling drift measurements.
     * Place the YSI in the water near your logger. Record the DO and pH on your datasheet under "fouling correction YSI - dirty". Leave the sonde in the water.
