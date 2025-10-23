@@ -1,0 +1,36 @@
+---
+title: "CONMON at SMCM"
+output: html_document
+---
+
+## Housekeeping
+
+- HW for next week: tie a cleat hitch and clove hitch with a half hitch at the dock with a dock line
+- Next week: We'll be outside for part of the time. If it's nice out, we might even go on the boat. Keep an eye on your email next week for updates.
+
+## Learning objectives
+
+- Identify and proactively avoid common sources of error when calibrating, deploying, and storing EXO2 sondes.
+- Use Kor software to calibrate and deploy an EXO2 sonde
+- Deploy EXO2 sonde at the SMCM waterfront, following correct procedures for obtaining fouling and calibration drift measurements.
+- Tie a cleat hitch and clove hitch at the dock
+
+## Resources
+
+- [EXO user manual](https://drive.google.com/file/d/10B1MFDg1UNAswkI_S3NsewC9zx3mZmDv/view?usp=drive_link)
+- [Anti-fouling tips](https://drive.google.com/file/d/1epLpuqhm4CZAjJbHwjZjNTyfeiLdFV8s/view?usp=drive_link)
+- [EXO Smart QC Handbook](https://drive.google.com/file/d/1o9ZWmv1x2TffgqU0-OdeZM_E4yigpSln/view?usp=drive_link)
+
+## Class plan
+
+1. EXO homework recap
+
+- Open read through HW 3 and HW 6. 
+- In groups, make a list of things you need to understand and/or be aware of when working with EXO2 sondes so that 1) you don't break the sonde and 2) you get good data from your deployment. Use [this worksheet], which I will distribute in class, to guide your discussion.
+
+1. Slides on continuous monitoring at SMCM
+<iframe src="https://docs.google.com/presentation/d/1pyNY8zvlguL8IpddCsWlttY5Exx3LcTpEUgeU7h_WgI/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+1. Go to waterfront, demo cleat hitch and clove hitch.
+
+1. Go through sonde swap-out. Coastal Monitoring Interns will walk students through each step. Make sure each student gets a turn at calibrating a sensor.
