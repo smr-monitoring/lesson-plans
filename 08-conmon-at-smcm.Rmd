@@ -5,7 +5,7 @@ output: html_document
 
 ## Housekeeping
 
-- HW for next week: tie a cleat hitch and clove hitch with a half hitch at the dock with a dock line
+- HW for next week: tie a cleat hitch and clove hitch with a half hitch at the dock with a dock line and correctly coil a line. See [Knot tying page](https://smr-monitoring.github.io/MRNE395-2025FA/knot-tying.html) for instructional videos.
 - Next week: We'll be outside for part of the time. If it's nice out, we might even go on the boat. Keep an eye on your email next week for updates.
 
 ## Learning objectives
@@ -30,6 +30,8 @@ output: html_document
 
 1. Slides on continuous monitoring at SMCM
 <iframe src="https://docs.google.com/presentation/d/1pyNY8zvlguL8IpddCsWlttY5Exx3LcTpEUgeU7h_WgI/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
+
+1. Video on rope coiling [linked on knot-tying page](https://smr-monitoring.github.io/MRNE395-2025FA/knot-tying.html)
 
 1. Go to waterfront, demo cleat hitch and clove hitch.
 
