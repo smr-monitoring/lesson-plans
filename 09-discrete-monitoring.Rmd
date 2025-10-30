@@ -14,6 +14,8 @@ css: style.css
 - Follow SOPs to measure a vertical light profile, YSI parameters, and secchi depth
 - Collect water samples
 - Follow SOPs to filter water samples for chl *a* and TSS
+- Describe common sources of PAR, secchi, and YSI sampling error and explain whether values would be over- or under-estimated
+- Describe common sources of TSS and chl *a* sampling error and explain whether values would be over- or under-estimated
 
 
 ## Resources
