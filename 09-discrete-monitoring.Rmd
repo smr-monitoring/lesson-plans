@@ -6,16 +6,14 @@ css: style.css
 
 ## Housekeeping
 
-- We'll learn two new knots today: cleat hitch and clove hitch. 
-- We'll have a knot-tying "quiz" for these two knots next week in class.
+- HW for next week: create a study guide outline for the final written and practical exams (details in Google Classrom)
 
 
 ## Learning objectives
 
-- Tie a clove hitch and cleat hitch
 - Follow SOPs to measure a vertical light profile, YSI parameters, and secchi depth
 - Collect water samples
-- Follow SOPs to filter water for chl *a* and TSS
+- Follow SOPs to filter water samples for chl *a* and TSS
 
 
 ## Resources
@@ -23,7 +21,7 @@ css: style.css
 - [SOP for secchi depth and vertial light profile](https://smr-monitoring.github.io/sop/secchi.html)
 - [SOP for YSI](https://smr-monitoring.github.io/sop/ysi.html)
 - SOP for [TSS](https://smr-monitoring.github.io/sop/tss.html) and [chl a](https://smr-monitoring.github.io/sop/chl-filtering.html) filtering
-- [data spreadsheet](https://drive.google.com/drive/folders/1FwTsPz89F6rkB8VK9UGrjffrvfalvkeT?usp=drive_link)
+- [data spreadsheet](https://drive.google.com/drive/folders/1FwTsPz89F6rkB8VK9UGrjffrvfalvkeT?usp=sharing)
 - [YSI user manual](https://www.ysi.com/File%20Library/Documents/Manuals/606962-ProQuatro-User-Manual-English.pdf)
 
 
@@ -35,30 +33,22 @@ css: style.css
 - clip boards
 - LI-COR
 - YSIs
-- nalgene bottles (4)
+- nalgene bottles 
 - secchi disks
 - filtering gear (vacuum pump, manifold and filtering cup, forceps, filters, foils, skinny sharpies, plastic baggie, DI bottles)
 
 
 ## Procedures
 
-1. Discuss: what lessons did you learn from deploying and retrieving the continuous monitoring sensors?
-  - Remember to take the cap off! Get totally familiar with your instruments so you can easily recognize potential problems or oversights
-  - Double check weather and make sure it's safe to deploy, check tide levels, make sure you're prepared to be comfortable outside (hot, cold, windy, rainy, buggy, etc.)
-  - Make sure software works
-  - Double/triple check instruments to make sure they are programmed correctly
-  - Take your time, don't rush 
-  - Take detailed notes
-  
 1. Filtering slides
 1. Calibrate YSIs 
-1. Go to dock, demo LI-COR, secchi, YSI, collecting water samples
-1. Everyone: do YSI measurements
-1. Get docklines and demo cleat and clove hitches
-1. Go to River Center lab, demo filtering for TSS & chl *a*
-1. Two groups go get a water sample and come back up to the lab to filter
-1. Two groups go to the dock and measure secchi and collect a vertical light profile with the LI-COR
+1. Knot tying on the dock with dock lines
+1. Demo LI-COR, secchi, YSI, collecting water samples from the floating dock
+1. Everyone: YSI measurements
+1. In River Center lab, demo filtering for TSS & chl *a*
+1. One group go get a water sample and come back up to the lab to filter
+1. One group go to the dock and measure secchi and collect a vertical light profile with the LI-COR
 1. Switch! 
-1. Enter data in [data spreadsheet](https://drive.google.com/drive/folders/1FwTsPz89F6rkB8VK9UGrjffrvfalvkeT?usp=drive_link) linked here and above
+1. Enter data in [data spreadsheet](https://drive.google.com/drive/folders/1FwTsPz89F6rkB8VK9UGrjffrvfalvkeT?usp=sharing) 
 
 <iframe src="https://docs.google.com/presentation/d/1rRQpPNB942s0fucaBhU-SqV36Jlg4J9XRe-w4qCcJNU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
