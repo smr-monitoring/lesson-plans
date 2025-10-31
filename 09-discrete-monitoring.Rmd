@@ -54,5 +54,3 @@ css: style.css
 1. Enter data in [data spreadsheet](https://drive.google.com/drive/folders/1FwTsPz89F6rkB8VK9UGrjffrvfalvkeT?usp=sharing) 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZr54Sf0Fss0cLZlwUAHgEfizdM6aW8r6_u7bkMowQ6cuyRIfOapsDX62WnM-OyYO_H7AYfV_8prvk/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1"></iframe>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZr54Sf0Fss0cLZlwUAHgEfizdM6aW8r6_u7bkMowQ6cuyRIfOapsDX62WnM-OyYO_H7AYfV_8prvk/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
