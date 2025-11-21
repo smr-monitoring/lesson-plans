@@ -6,44 +6,23 @@ css: style.css
 
 ## Housekeeping
 
-* Sign up for skills assessment time slot [here](https://docs.google.com/spreadsheets/d/1DQZy_el1P3STTJAK_oDW0vItPTuICWyn_ZPAt6kokbE/edit?gid=0#gid=0)
-* We will meet in the River Center lab next week for the skills assessment at your designated time 
-* Final learning reflection will be due on the last day of classes - I will send out more on this soon.
+* Practical skills assessment 12/5
+* Exam review 12/12
+* Written exam 12/17 2:00-4:15
 
 ## Learning objectives
 
-* Review and practice monitoring methods covered in class
+* Review and practice monitoring methods covered in class using the [Skills checklist](https://smr-monitoring.github.io/MRNE395-2025SP/skills-checklist.html)
 
-## Resources
-
-* [Skills checklist](https://smr-monitoring.github.io/MRNE395-2025SP/skills-checklist.html)
-
-## Lesson plan
-
-In groups of 2, test each other on monitoring methods. As you rotate through the stations listed below, you'll fill out the provided monitoring skills checklist to "test" your partner. The final skills assessment will use the same checklist, so you can approach today's activities as a practice test. 
-
-**In the lab:** 
-
-1.  Calibrate a YSI
-
-2.  Program a continuous data logger (light/temperature) and prepare for deployment (attach logger, line, and buoy to brick using proper knots: bowline and lobster buoy hitch)
-
-3. Filter water samples for TSS
-
-**On the dock:**
-
-4. Take basic water quality measurements (YSI, secchi, vertical light profile, fluorescence) and properly record data on field datasheet
-
-5. Properly secure a boat using a cleat hitch and a clove hitch+half hitch
 
 ### Supplies
 
 * Water samples
 * YSI
 * Secchi disk
+* Fluorometer
 * LiCOR
 * monitoring datasheet
-* YSI calibration fluid and cup
-* light/temp loggers
+* EXO and calibration supplies
 * line, buoys, bricks
 * filtering funnels, flasks, forceps, filters, foils, labeling tape, skinny sharpies
